@@ -1,6 +1,6 @@
 
 # 🦈 **EDA on Shark Tank India Data**  
-![Shark Tank GIF](https://media.giphy.com/media/Qz3U6NVOvFfKFxHiCz/giphy.gif)
+![Shark Tank GIF](https://github.com/singhatul4572/Shark-_tank_EDA/blob/main/Shark_Tank_Theme_HD.gif)
 
 ---
 
